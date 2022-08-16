@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-.logo {
+/* .logo {
   height: 6em;
   width: 40px;
   padding: 1.5em;
@@ -16,5 +16,5 @@
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
-}
+} */
 
