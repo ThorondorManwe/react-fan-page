@@ -39,7 +39,10 @@ nav {
 }
 
 main {
+  /* width: 80%; */
+  margin: 0 auto;
   padding: 57px 27px;
+  text-align: center;
   color: white;
   background-image: url(./assets/react-icon-large.png);
   background-repeat: no-repeat;
@@ -55,6 +58,7 @@ main {
 .main--facts {
   margin-top: 46px;
   max-width: 400px;
+  margin: 0 auto;
 }
 
 .main--facts > li {
